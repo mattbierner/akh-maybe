@@ -20,7 +20,7 @@
   "main": "index.js",
   "dependencies": {
     "akh.core.spec": "0.x",
-    "akh.either": "^0.0.0",
+    "akh.either": "^0.0.1",
     "akh.identity": "^0.1.0"
   },
   "devDependencies": {
