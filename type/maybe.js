@@ -1,6 +1,6 @@
 "use strict"
 const Identity = require('akh.identity').Identity
-const MaybeT = require('../trans/Maybe')
+const MaybeT = require('../trans/maybe')
 
 /**
  * Maybe monad
